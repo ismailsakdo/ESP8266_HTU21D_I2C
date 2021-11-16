@@ -1,6 +1,8 @@
 # ESP8266_TempHumid
 ESP8266 Temperature and Humidity Sensor HTU21 published data in ThingSpeak
 
+Video Link: https://youtu.be/WpilLk_DhUQ
+
 Step for this project:
 1) Setup Hardware
 2) Download the Library HTU21D: https://github.com/enjoyneering/HTU21D
